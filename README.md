@@ -1,6 +1,6 @@
 # The Movie Searcher Project
 
-This app scrapp the movies name, released date and photo you just looking for thanks to the moviedb gem.
+Thanks to the moviedb gem this app scrapp the movie name, released date and photo you just looking for.
 
 To run this app on a local server :
 
