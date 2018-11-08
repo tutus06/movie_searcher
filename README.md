@@ -1,5 +1,7 @@
 # The Movie Searcher Project
 
+This app scrapp the movies name, released date and photo you just looking for thanks to the moviedb gem.
+
 To run this app on a local server :
 
 * Clone this repo
@@ -10,8 +12,8 @@ To run this app on a local server :
 
 * ```rails db:create```
 
-* Put your moviedb's API in the dotenv file
+* Fill the .env with your Moviedb API's
 
 * ```rails server```
 
-* And enjoy [here](http://localhost:3000/)
+* [Enjoy](http://localhost:3000/)
