@@ -1,3 +1,33 @@
-.row, .form, h1 {
+.row, .form, h1, a, footer, header{
   font-family: URW Gothic L;
+}
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  position: relative;
+  background-color: rgb(233, 236, 239);
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+footer, header {
+  background-color: DarkSlateGrey;
+}
+
+a {
+  color: LemonChiffon;
+}
+
+a:hover {
+  color: Plum;
+}
+
+h1 {
+  margin-bottom: 5%;
 }
