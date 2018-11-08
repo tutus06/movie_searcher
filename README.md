@@ -1,24 +1,17 @@
-# README
+# The Movie Searcher Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To run this app on a local server :
 
-Things you may want to cover:
+* Clone this repo
 
-* Ruby version
+* ```cd your_folder```
 
-* System dependencies
+* ```bundle install```
 
-* Configuration
+* ```rails db:create```
 
-* Database creation
+* Put your moviedb's API in the dotenv file
 
-* Database initialization
+* ```rails server```
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* And enjoy [here](http://localhost:3000/)
